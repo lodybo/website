@@ -1,0 +1,6 @@
+/* import partials */
+@import "./_reset.css";
+@import "./_theme.css";
+
+/* Then, import styles */
+@import "./_global.css";

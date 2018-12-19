@@ -1,0 +1,12 @@
+:root {
+  /* Colors */
+  --blue: #DCF2F7;
+  --dark-brown: #655250;
+  --background-color: var(--blue);
+  --text-color: var(--dark-brown);
+  --link-color: var(--dar-brown);
+
+  /* Fonts */
+  --bungee: "Bungee", cursive;
+  --roboto: "Roboto Slab", serif;
+}
