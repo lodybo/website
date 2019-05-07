@@ -22,3 +22,13 @@
   font-size: 2em;
   font-family: var(--roboto);
 }
+
+.info {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.info:first-child {
+  margin-bottom: 10px;
+}
