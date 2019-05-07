@@ -29,3 +29,8 @@ body {
 	font-family: var(--roboto);
 	font-size: 1.2em;
 }
+
+em {
+	font-style: normal;
+	color: var(--light-brown);
+}
